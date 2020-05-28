@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/RailYathri-5/static/css/main.44cd62c8.chunk.css",
+    "main.js": "/RailYathri-5/static/js/main.c85ca117.chunk.js",
+    "main.js.map": "/RailYathri-5/static/js/main.c85ca117.chunk.js.map",
+    "runtime-main.js": "/RailYathri-5/static/js/runtime-main.ba0230ce.js",
+    "runtime-main.js.map": "/RailYathri-5/static/js/runtime-main.ba0230ce.js.map",
+    "static/css/2.ecffae5e.chunk.css": "/RailYathri-5/static/css/2.ecffae5e.chunk.css",
+    "static/js/2.cbc672b2.chunk.js": "/RailYathri-5/static/js/2.cbc672b2.chunk.js",
+    "static/js/2.cbc672b2.chunk.js.map": "/RailYathri-5/static/js/2.cbc672b2.chunk.js.map",
+    "index.html": "/RailYathri-5/index.html",
+    "precache-manifest.94aae73746280b0a767b08d132ad281e.js": "/RailYathri-5/precache-manifest.94aae73746280b0a767b08d132ad281e.js",
+    "service-worker.js": "/RailYathri-5/service-worker.js",
+    "static/css/2.ecffae5e.chunk.css.map": "/RailYathri-5/static/css/2.ecffae5e.chunk.css.map",
+    "static/css/main.44cd62c8.chunk.css.map": "/RailYathri-5/static/css/main.44cd62c8.chunk.css.map",
+    "static/js/2.cbc672b2.chunk.js.LICENSE.txt": "/RailYathri-5/static/js/2.cbc672b2.chunk.js.LICENSE.txt",
+    "static/media/Group 173.svg": "/RailYathri-5/static/media/Group 173.04bae481.svg",
+    "static/media/Path 563.svg": "/RailYathri-5/static/media/Path 563.919dbffa.svg",
+    "static/media/Path 565.svg": "/RailYathri-5/static/media/Path 565.8e2f9838.svg",
+    "static/media/icon-train-details.svg": "/RailYathri-5/static/media/icon-train-details.27c95b9d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba0230ce.js",
+    "static/css/2.ecffae5e.chunk.css",
+    "static/js/2.cbc672b2.chunk.js",
+    "static/css/main.44cd62c8.chunk.css",
+    "static/js/main.c85ca117.chunk.js"
+  ]
+}
