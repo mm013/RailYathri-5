@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RailYathri-5/precache-manifest.94aae73746280b0a767b08d132ad281e.js"
+  "/RailYathri-5/precache-manifest.ea7369d2d95d4d6f1463f9cb2022de04.js"
 );
 
 self.addEventListener('message', (event) => {
